@@ -1,4 +1,5 @@
-# 简介
-前后端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
-
+*  主页:[https://dongkcs.com/home.html](https://dongkcs.com/home.html)
+* 博客:[https://dongkcs.com](https://dongkcs.com)
+* Wiki:[https://dongkcs.github.io/site-Wiki](https://dongkcs.github.io/site-Wiki)
+* GitHub:[https://github.com/dongkcs](https://github.com/dongkcs)
 
